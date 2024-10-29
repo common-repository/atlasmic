@@ -1,0 +1,17 @@
+window.atlasmicTranslations = {
+  "121aba833baa39f9": window.wp.i18n.__("Open dashboard", 'atlasmic'),
+  "2cd131c660b66b95": window.wp.i18n.__("Have an account already?", 'atlasmic'),
+  "44e98b422a53bf61": window.wp.i18n.__("Logout from this Atlasmic account", 'atlasmic'),
+  "56c6bc80a325b956": window.wp.i18n.__("Installing...", 'atlasmic'),
+  "58f9e5601761564a": window.wp.i18n.__("Live chat is now visible on your website. You can now customize live chat and enable other apps in the dashboard. Click the button below.", 'atlasmic'),
+  "67743660d1130c90": window.wp.i18n.__("Select workspace", 'atlasmic'),
+  "68edfc6d4095b1bd": window.wp.i18n.__("Select Atlasmic workspace to use with this WordPress website", 'atlasmic'),
+  "8a9e7c8c50c19d0b": window.wp.i18n.__("Atlasmic is successfully installed.", 'atlasmic'),
+  "a2ef18109bc72432": window.wp.i18n.__("Sign Up", 'atlasmic'),
+  "a32ef66cbf6e3527": window.wp.i18n.__("Selecting workspace...", 'atlasmic'),
+  "a465419bab16858c": window.wp.i18n.__("Work email", 'atlasmic'),
+  "bc76e91e3a7c95f5": window.wp.i18n.__("Switch workspace", 'atlasmic'),
+  "c6767c83f5228e31": window.wp.i18n.__("Join hundreds worldwide who scale their sales using Atlasmic.", 'atlasmic'),
+  "daf0014a82590bdf": window.wp.i18n.__("Sign in", 'atlasmic'),
+  "ec133ac85d69158c": window.wp.i18n.__("Enter your work email", 'atlasmic'),
+}
